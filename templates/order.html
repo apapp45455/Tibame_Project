@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>order</title>
+</head>
+<body>
+<div id="page">
+    <div data-role="header" data-position="fixed" >
+        <h1>Bootcard 訂餐表單</h1>
+    </div>
+    <div class="content">
+        <div>
+            <h3>點餐資訊</h3>
+        </div>
+        <form method="POST" action="/order_post">
+        <!--column = ['sales_id', 'transaction_date', 'transaction_time', 'customer_id', 'product_id', 'quantity', 'unit_price', 'total_price', 'satisfication']-->
+            <br><label>customer_id</label>
+            <input name="customer_id" value="{{userid}}">
+            <br><label>product_category</label>
+            <input name="product_category">
+            <br><label>product_name</label>
+            <input name="product_name">
+            <br><label>quantity</label>
+            <input name="quantity">
+    <!--        <br><label>unit_price</label>-->
+    <!--        <input name="unit_price">-->
+    <!--        <br><label>total_price</label>-->
+    <!--        <input name="total_price">-->
+            <br><button type="submit">Submit</button>
+        </form>
+    </div>
+</div>
+</body>
+</html>

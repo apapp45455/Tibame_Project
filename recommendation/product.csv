@@ -1,0 +1,81 @@
+product_id,product_category,product_name,sale_price
+1,Coffee beans,Brazilian - Organic,18
+2,Coffee beans,Our Old Time Diner Blend,18
+3,Coffee beans,Espresso Roast,14.75
+4,Coffee beans,Primo Espresso Roast,20.45
+5,Coffee beans,Columbian Medium Roast,15
+6,Coffee beans,Ethiopia,21
+7,Coffee beans,Jamacian Coffee River,19.75
+8,Coffee beans,Civet Cat,45
+9,Coffee beans,Organic Decaf Blend,22.5
+10,Coffee beans,Guatemalan Sustainably Grown,10
+11,Loose Tea,Lemon Grass,8.95
+12,Loose Tea,Peppermint,8.95
+13,Loose Tea,English Breakfast,8.95
+14,Loose Tea,Earl Grey,8.95
+15,Loose Tea,Serenity Green Tea,9.25
+16,Loose Tea,Traditional Blend Chai,8.95
+17,Loose Tea,Morning Sunrise Chai,9.5
+18,Loose Tea,Spicy Eye Opener Chai,10.95
+19,Packaged Chocolate,Dark chocolate,6.4
+20,Packaged Chocolate,Sustainably Grown Organic,7.6
+21,Packaged Chocolate,Chili Mayan,13.33
+22,Coffee,Our Old Time Diner Blend,2
+23,Coffee,Our Old Time Diner Blend ,2.5
+24,Coffee,Our Old Time Diner Blend ,3
+25,Coffee,Brazilian ,2.2
+26,Coffee,Brazilian ,3
+27,Coffee,Brazilian ,3.5
+28,Coffee,Columbian Medium Roast ,2
+29,Coffee,Columbian Medium Roast ,2.5
+30,Coffee,Columbian Medium Roast ,3
+31,Coffee,Ethiopia ,2.2
+32,Coffee,Ethiopia ,3
+33,Coffee,Ethiopia ,3.5
+34,Coffee,Jamaican Coffee River ,2.45
+35,Coffee,Jamaican Coffee River ,3.1
+36,Coffee,Jamaican Coffee River ,3.75
+37,Coffee,Espresso shot,3
+38,Coffee,Latte,4
+39,Coffee,Latte ,4.5
+40,Coffee,Cappuccino,4
+41,Coffee,Cappuccino ,4.5
+42,Tea,Lemon Grass ,2.5
+43,Tea,Lemon Grass ,3
+44,Tea,Peppermint ,2.5
+45,Tea,Peppermint ,3
+46,Tea,Serenity Green Tea ,2.5
+47,Tea,Serenity Green Tea ,3
+48,Tea,English Breakfast ,2.5
+49,Tea,English Breakfast ,3
+50,Tea,Earl Grey ,2.5
+51,Tea,Earl Grey ,3
+52,Tea,Traditional Blend Chai ,2.75
+53,Tea,Traditional Blend Chai ,3.25
+54,Tea,Morning Sunrise Chai ,2.75
+55,Tea,Morning Sunrise Chai ,4.5
+56,Tea,Spicy Eye Opener Chai ,2.8
+57,Tea,Spicy Eye Opener Chai ,3.35
+58,Drinking Chocolate,Dark chocolate ,3.5
+59,Drinking Chocolate,Dark chocolate ,4.5
+60,Drinking Chocolate,Sustainably Grown Organic ,3.75
+61,Drinking Chocolate,Sustainably Grown Organic ,4.75
+63,Flavours,Carmel syrup,0.8
+64,Flavours,Hazelnut syrup,0.8
+65,Flavours,Sugar Free Vanilla syrup,0.8
+69,Bakery,Hazelnut Biscotti,3.5
+70,Bakery,Cranberry Scone,3.25
+71,Bakery,Chocolate Croissant,3.75
+72,Bakery,Ginger Scone,3.25
+73,Bakery,Almond Croissant,3.75
+74,Bakery,Ginger Biscotti,3.5
+75,Bakery,Croissant,3.25
+76,Bakery,Chocolate Chip Biscotti,3.5
+77,Bakery,Oatmeal Scone,3
+78,Bakery,Scottish Cream Scone,4.5
+79,Bakery,Jumbo Savory Scone,3.75
+81,Branded,I Need My Bean! T-shirt,28
+82,Branded,I Need My Bean! Diner mug,12
+83,Branded,I Need My Bean! Latte cup,14
+84,Flavours,Chocolate syrup,0.8
+87,Coffee,Ouro Brasileiro shot,3

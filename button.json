@@ -1,0 +1,71 @@
+{
+    "type": "bubble",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "價目表",
+          "weight": "bold",
+          "size": "xl",
+          "wrap": False,
+          "style": "normal",
+          "position": "relative",
+          "align": "center"
+        },
+        {
+          "type": "separator",
+          "color": "#688e26"
+        }
+      ]
+    },
+    "footer": {
+      "type": "box",
+      "layout": "vertical",
+      "spacing": "sm",
+      "contents": [
+        {
+          "type": "button",
+          "style": "link",
+          "height": "sm",
+          "action": {
+            "type": "message",
+            "label": "咖啡豆",
+            "text": "咖啡豆"
+          }
+        },
+        {
+          "type": "button",
+          "style": "link",
+          "height": "sm",
+          "action": {
+            "type": "message",
+            "label": "茶飲",
+            "text": "茶飲"
+          }
+        },
+        {
+          "type": "button",
+          "style": "link",
+          "height": "sm",
+          "action": {
+            "type": "message",
+            "label": "咖啡",
+            "text": "咖啡"
+          }
+        },
+        {
+          "type": "button",
+          "style": "link",
+          "height": "sm",
+          "action": {
+            "type": "message",
+            "label": "甜品",
+            "text": "甜品"
+          }
+        }
+      ],
+      "flex": 0
+    }
+  }
